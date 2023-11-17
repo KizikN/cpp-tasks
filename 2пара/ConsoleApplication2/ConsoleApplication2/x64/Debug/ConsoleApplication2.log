@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+D:\Work\Kizik2\2пара\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Work\Kizik2\2пара\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(7,8): warning C4101: a: неиспользованная локальная переменная
+D:\Work\Kizik2\2пара\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(7,11): warning C4101: b: неиспользованная локальная переменная
+D:\Work\Kizik2\2пара\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(7,14): warning C4101: c: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> D:\Work\Kizik2\2пара\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
